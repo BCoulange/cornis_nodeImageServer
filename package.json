@@ -12,7 +12,8 @@
     "express": "~3.0",
     "request": "2.20.0",
     "connect": "*",
-    "buffer-crc32": "*"
+    "buffer-crc32": "*",
+    "methods": "*"
     },
   "engines": {
     "node": "0.8.x",
