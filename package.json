@@ -13,7 +13,14 @@
     "request": "2.20.0",
     "connect": "*",
     "buffer-crc32": "*",
-    "methods": "*"
+    "methods": "*",
+    "debug": "*",
+    "fresh": "*",
+    "range-parser": "*",
+    "cookie-signature": "*",
+    "cookie": "*",
+    "send": "*"
+    
     },
   "engines": {
     "node": "0.8.x",
